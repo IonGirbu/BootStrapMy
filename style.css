@@ -1,0 +1,103 @@
+body{
+    background-image: url(ClearCarelessBeagle-small.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    overflow-x : hidden;
+}
+header {
+    background-image: url(800px-Twitch_logo_2019.svg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 35%;
+    width: 400px;
+    height: 200px;
+  }
+  
+  .asd{
+      height: 20px;
+  }
+  .dd{
+      font-weight: bolder;
+      font-size: 150%;
+  }
+.aa{
+    background-image: url(scale_1200.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: sticky;
+    top: 40%;
+    height: 150px;
+}
+.asdf{
+    height: 50px;
+}
+.qwe{
+    background-image: url(twitch.jpg);
+    background-size: 100%;
+    height: 150px;
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: rgb(61, 5, 61);
+}
+.ghj{
+    background-image: url(pre1.png);
+    height: 100px;
+    background-size: 100%;
+}
+.jhg{
+    background-image: url(pre.png);
+    height: 100px;
+    background-size: 100%;
+}
+.wer{
+    background-image: url(monks.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 150px;
+}
+.ret{
+    background-image: url(better.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 150px;
+}
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+.star{
+    background-image: url(PNGPIX-COM-Star-Vector-PNG-Transparent-Image.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 150px;
+}
+.hj{
+    font-size: 123%;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: cyan;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+    background-color: #555;
+  }
